@@ -18,12 +18,12 @@ Automatically provisions and configures:
 
 ## 🛠 Technologies Used
 
-| Technology | Purpose |
-|------------|---------|
-| **Python** | Lambda function and scripting logic |
-| **Bash** | Automating AWS resource creation |
-| **AWS CLI** | AWS infrastructure configuration |
-| **boto3** | AWS SDK used within the Lambda function |
+| Technology   | Purpose                             |
+|--------------|-------------------------------------|
+| **Python**   | Lambda function and scripting logic |
+| **Bash**     | Automating AWS resource creation    |
+| **AWS CLI**  | AWS infrastructure configuration    |
+| **boto3**    | AWS SDK used within the Lambda      |
 
 ---
 
@@ -40,10 +40,3 @@ Automatically provisions and configures:
 ```bash
 git clone https://github.com/abhay702/AWS-S3_lambda_script.git
 cd AWS-S3_lambda_script
----
-
-## 📷 Architecture Diagram
-
-![S3 Event Trigger Diagram](https://github.com/user-attachments/assets/6fcbb2bd-4a10-4320-918f-9ea34a592572)
-
----
