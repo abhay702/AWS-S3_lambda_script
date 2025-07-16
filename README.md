@@ -3,6 +3,8 @@
 This project automates the creation of AWS resources and sets up a notification workflow using Lambda and SNS. Whenever a new object is uploaded to an S3 bucket, an email notification is triggered automatically.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e5b5deea-d2c1-4922-956b-12cafede6087" />
+
 
 ## 🚀 Features
 
