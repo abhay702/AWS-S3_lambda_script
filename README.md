@@ -40,3 +40,5 @@ Automatically provisions and configures:
 ```bash
 git clone https://github.com/abhay702/AWS-S3_lambda_script.git
 cd AWS-S3_lambda_script
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ee410908-054a-4a0e-ba56-8ec76f1eb4d9" />
