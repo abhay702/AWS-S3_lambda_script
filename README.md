@@ -20,7 +20,7 @@ Automatically provisions and configures:
 
 | Technology | Purpose |
 |------------|---------|
-| **Python 3.8** | Lambda function and scripting logic |
+| **Python** | Lambda function and scripting logic |
 | **Bash** | Automating AWS resource creation |
 | **AWS CLI** | AWS infrastructure configuration |
 | **boto3** | AWS SDK used within the Lambda function |
