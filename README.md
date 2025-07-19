@@ -6,7 +6,7 @@ This project automates the creation of AWS resources and sets up a notification 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e5b5deea-d2c1-4922-956b-12cafede6087" />
 
 
-## 🚀 Features
+## Features
 
 Automatically provisions and configures:
 
@@ -18,7 +18,7 @@ Automatically provisions and configures:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 | Technology   | Purpose                             |
 |--------------|-------------------------------------|
@@ -29,7 +29,7 @@ Automatically provisions and configures:
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ### ✅ Prerequisites
 
@@ -37,7 +37,7 @@ Automatically provisions and configures:
 - AWS CLI installed and configured (`aws configure`)
 - Python 3.8+ and `boto3` installed (preferably in a virtual environment)
 
-### 📦 Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/abhay702/AWS-S3_lambda_script.git
